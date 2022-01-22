@@ -1,0 +1,13 @@
+E:\Task_Azenix\Task_Azenix\Task_Azenix\bin\Debug\Task_Azenix.exe.config
+E:\Task_Azenix\Task_Azenix\Task_Azenix\bin\Debug\Task_Azenix.exe
+E:\Task_Azenix\Task_Azenix\Task_Azenix\bin\Debug\Task_Azenix.pdb
+E:\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.csprojResolveAssemblyReference.cache
+E:\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.exe
+E:\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.pdb
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\bin\Debug\Task_Azenix.exe.config
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\bin\Debug\Task_Azenix.exe
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\bin\Debug\Task_Azenix.pdb
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.csproj.AssemblyReference.cache
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.exe
+C:\Users\vaibh\Documents\Azenix_Coding_Challenge\Task_Azenix\Task_Azenix\Task_Azenix\obj\Debug\Task_Azenix.pdb
